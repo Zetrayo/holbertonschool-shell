@@ -1,2 +1,2 @@
 #!/bin/bash
-if [stat -c "%a" hello = 644] chmod 555 hello fi if [stat -c "%a" hello = 444] chmod 751 hello fi
+chmod 751 hello
