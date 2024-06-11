@@ -1,2 +1,2 @@
 #!/bin/bash
-find permissions -type df -exec chmod +111 {}
+find permissions -type d,f -exec chmod +111 {}
