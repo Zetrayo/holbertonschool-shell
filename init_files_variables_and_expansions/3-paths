@@ -1,2 +1,2 @@
 #!/bin/bash
-path="$PATH" | count=$(find $path -type d | wc -l) | echo "$count"
+find $PATH -type d | wc -l
