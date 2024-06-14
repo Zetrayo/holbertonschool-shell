@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e {a..z}{a..z}'\n' > this | sed '$d' this | grep -v oo 
+echo -e {a..z}{a..z}'\n' > this | grep -v -e oo '^[[:space:]]*$' this
