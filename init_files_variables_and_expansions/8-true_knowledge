@@ -1,0 +1,2 @@
+#!/bin/bash
+this=$((128+$TRUEKNOWLEDGE)) | echo $this
