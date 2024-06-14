@@ -1,2 +1,2 @@
 #!/bin/bash
-this=$((128+$TRUEKNOWLEDGE)) | echo $this
+first=128 | this=$(($first + $TRUEKNOWLEDGE)) | echo $this
