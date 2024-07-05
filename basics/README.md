@@ -14,5 +14,5 @@ exo 12 = file: donne des informations sur le type de fichier
 exo 13 = ln: permet de creer un lien symbolique
 exo 14 = cp: permet de copier un fichier
 exo 15 = mv: permet de deplacer un fichier ou dossier
-exo 16 =
-exo 17 =
+exo 16 = rm*~: efface les fichiers qui finisent par ~
+exo 17 = mkdir-p: cree les dossiers dans l'ordre donne
