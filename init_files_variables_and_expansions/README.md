@@ -1,1 +1,15 @@
-yep
+exo 0 = alias: permet de creer un racourci pour une commande
+exo 1 = echo: permet de creer un fichier et d'ecrire dedans au meme temps
+exo 2 = export: permet de creer un chemin vers un fichier
+exo 3 = 
+exo 4 =
+exo 5 =
+exo 6 =
+exo 7 =
+exo 8 =
+exo 9 =
+exo 10 =
+exo 11 =
+exo 12 =
+exo 13 =
+exo 14 =
