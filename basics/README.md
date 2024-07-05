@@ -1,2 +1,18 @@
-#!/bin/bash
-#0=pwd/1=ls/2=cd/3=ls-l/4=ls-a-l/5=ls-a-n/6=
+exo 0 = pwd: affiche le chemin
+exo 1 = ls: affiche le contenu du dossier
+exo 2 = cd: permet le deplacement dans les dossiers
+exo 3 = ls-l: affiche le contenu du dossier en format long
+exo 4 = ls-a-l: affiche tout le contenu du dossier en format long
+exo 5 = ls-l-a-n: affiche tout le contenu du dossier et ses permissions en format long
+exo 6 = mkdir: permet de creer un dossier
+exo 7 = mv: permet de changer le nom de un fichier ou dossier ou de le deplacer
+exo 8 = rm: permet d'effacer un fichier
+exo 9 = rm-r: permet d'effacer un fichier ou dossier
+exo 10 = cd-: permet de revenir au dossier dans leque on etais precedament
+exo 11 = ls-a-l . ..: affiche tout le contenu du dossier, fichiers caches inclus en format long
+exo 12 = file: donne des informations sur le type de fichier
+exo 13 = ln: permet de creer un lien symbolique
+exo 14 = cp: permet de copier un fichier
+exo 15 = mv: permet de deplacer un fichier ou dossier
+exo 16 =
+exo 17 =
